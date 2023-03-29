@@ -1,3 +1,5 @@
+<p align="center">Created with <em style="color: #a82626; font-weight: 1000;">Laravel</em>, <em style="color: #25a846; font-weight: 1000;">Vue.js</em>, <em style="color: #a82552; font-weight: 1000;">Blade</em>, <em style="color: #5325a8; font-weight: 1000;">Bootstrap</em>, <em style="color: #a87025; font-weight: 1000;">XML</em>, <em style="color: #362828; font-weight: 1000;">Composer</em>, <em style="color: #8c3d26; font-weight: 1000;">HTML</em>, <em style="color: #26308c; font-weight: 1000;">Css</em>, <em style="color: #50217c; font-weight: 1000;">PHP<em>, et cetera</p>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
