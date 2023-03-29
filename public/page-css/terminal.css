@@ -1,0 +1,63 @@
+* {
+	color: #e1e1e1;
+}
+
+body {
+	background-color: #1d1d1f;
+	font-family: 'Ubuntu', sans-serif;
+	margin: 0;
+}
+
+.console * {
+	font-family: monospace;
+}
+
+.console {
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	position: relative; /* added position relative */
+}
+
+.console-history {
+	box-sizing: border-box;
+	flex-grow: 1;
+	padding: 24px;
+	margin: 50px;
+	margin-left: 10px;
+}
+
+.console-input-log,
+.console-output-log {
+	box-sizing: border-box;
+	padding: 4px 8px;
+}
+
+.console-input-log:hover,
+.console-output-log:hover {
+	background: #202022;
+}
+
+.console-input-log {
+	color: #fff;
+}
+
+.console-output-log {
+	color: #ab2;
+}
+
+.console-input {
+	position: fixed; /* changed display to position */
+	bottom: 0; /* added bottom */
+	left: 0;
+	width: 100%; /* added width */
+	box-sizing: border-box;
+	padding: 8px;
+	outline: none;
+	border: none;
+	border-top: 1.4px solid #333333;
+	color: #fff;
+	background-color: #2a2a2c;
+	transition: background 0.2;
+}
